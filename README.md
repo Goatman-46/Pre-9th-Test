@@ -9,12 +9,9 @@
     body {
       display: flex;
       flex-wrap: wrap;
-      gap: 10;
-      padding: 20;
+      gap: 10px;
+      padding: 20px;
       font-family: Courier New;
-    }
-
-    body > * {
       width: 600px;
       height: 200px;
       border: 2px solid #333;
