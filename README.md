@@ -16,7 +16,7 @@
 
     body > * {
       width: 600px;
-      height: 150px;
+      height: 200px;
       border: 2px solid #333;
       display: flex;
       justify-content: left;
