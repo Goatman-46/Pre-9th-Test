@@ -40,7 +40,6 @@
   </style>
 </head>
 <body> 
-  <h1> Name:-<h1>
   <div class="section"
   <h1>Solve 5 short questions out of the following 8 questions :</h1>
   </div>
