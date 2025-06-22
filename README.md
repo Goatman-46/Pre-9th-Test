@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Test For Pre-9th</title>
   <style>
-    . section {
+body {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
@@ -23,6 +23,8 @@
       box-sizing: border-box;
       padding: 10px;
       margin: 10px
+                  }
+          . section { 
             background: #fff;
             padding: 15px;
             margin-bottom: 20px;
