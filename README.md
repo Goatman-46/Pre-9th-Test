@@ -6,7 +6,7 @@
   <title>Test For Pre-9th</title>
   <style>
     body {
-      font-family: "Courier New", monospace;
+      font-family: "Courier New", Courier, Monospace;
       background-color: #f9f9f9;
       margin: 0;
       padding: 0;
@@ -29,10 +29,12 @@
       border-top: 6px solid #271223;
       border-bottom: 6px solid #271223;
       box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+      font-family: "Courier New", Courier, Monospace;
     }
 
     h1, h3 {
       margin: 0 0 10px;
+      font-family: "Courier New", Courier, Monospace;
     }
   </style>
 </head>
